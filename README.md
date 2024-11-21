@@ -1,5 +1,5 @@
 
-# US Mass Shooting Analysis 🕵️‍♂️📊
+# US Mass Shooting Analysis 📊
 
 This project performs an in-depth analysis of mass shootings in the United States. It explores trends, correlations, and insights using Python, data visualization, and machine learning techniques. The notebook provides step-by-step analysis, from data loading to insights generation.
 
