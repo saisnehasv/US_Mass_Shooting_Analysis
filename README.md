@@ -41,7 +41,7 @@ Mass shootings have become a growing concern in the United States. This project 
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/saisnehasv/US_Mass_Shooting_Analysis>
+   git clone https://github.com/saisnehasv/US_Mass_Shooting_Analysis
    ```
 
 2. Install the required dependencies:
