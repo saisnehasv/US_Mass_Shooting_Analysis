@@ -87,13 +87,13 @@ Mass shootings have become a growing concern in the United States. This project 
 ## 🖼️ Screenshots
 
 ### Data Cleaning and Analysis
-![Data Cleaning Example](#)
+![Data Cleaning Example](images/Data_Cleaning)
 
 ### Visualization of Trends Over Time
-![Trends Visualization](#)
+![Trends Visualization](images/Trend_Analysis)
 
 ### Correlation Heatmap
-![Heatmap Example](#)
+![Heatmap Example](images/heatmap)
 
 ---
 
